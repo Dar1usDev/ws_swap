@@ -5,19 +5,19 @@ class AppDescriptionWidget extends StatelessWidget {
   const AppDescriptionWidget({Key? key}) : super(key: key);
 
   final TextStyle _mainTextStyle = const TextStyle(
-    //TODO вынести style
+    //TODO вынести style?
     fontSize: 25,
     color: CustomColors.lightColor,
   );
 
   final TextStyle _nameTextStyle = const TextStyle(
-    //TODO вынести style
+    //TODO вынести style?
     fontSize: 25,
     color: CustomColors.secondaryColor,
   );
 
   final TextStyle _noteTextStyle = const TextStyle(
-    //TODO вынести style
+    //TODO вынести style?
     fontSize: 17,
     color: CustomColors.lightColor,
   );
