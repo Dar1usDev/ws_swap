@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:ws_swap/routes/info_page/widgets/AppDescriptionWidget.dart';
+import 'package:ws_swap/routes/info_page/widgets/app_description_widget.dart';
 
-import 'package:ws_swap/routes/info_page/widgets/GithubLinkWidget.dart';
-import 'package:ws_swap/routes/info_page/widgets/LogoWidget.dart';
+import 'package:ws_swap/routes/info_page/widgets/github_link_widget.dart';
+import 'package:ws_swap/routes/info_page/widgets/logo_widget.dart';
 
 class InfoPage extends StatefulWidget {
   const InfoPage({Key? key, required this.title}) : super(key: key);

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-import 'routes/info_page/InfoPage.dart';
-import 'themes/CustomTheme.dart';
+import 'package:ws_swap/routes/info_page/info_page.dart';
+import 'package:ws_swap/themes/custom_theme.dart';
 
 void main() {
   runApp(const MyApp());
